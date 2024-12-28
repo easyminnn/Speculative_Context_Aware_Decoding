@@ -1,0 +1,8 @@
+einops
+torch
+rotary_embedding_torch
+wandb
+tqdm
+numpy
+mauve-text
+transformers
