@@ -1,7 +1,7 @@
 __pycache__
 wandb
 logs
-
+model
 cache
 inference_for_new_metric.py
 llama_train.slurm
